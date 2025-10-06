@@ -8,3 +8,6 @@
 
 # Projects 
 - Sales Data Analysis
+
+## Connet with me
+- LinkedIn (https://www.linkedin.com/in/peter-adekunle-oluwadare/)
